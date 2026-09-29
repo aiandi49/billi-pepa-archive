@@ -30,6 +30,7 @@
   "ph-jbrt-drums-guitar.jpg": "Jimmibeetles Rock Theatre on stage — drums and guitar.",
   "ph-band-trio.jpg": "The Jimmibeetles Rock Theatre trio.",
   "cover-story-of-jimmibeetles.jpg": "Cover of The Story of Jimmibeetles (No Records, 1996).",
+  "story-cover-detail.jpg": "Detail from the cover of The Story of Jimmibeetles (1996).",
   "back-story-of-jimmibeetles.jpg": "Band photo from The Story of Jimmibeetles.",
   "cover-vol-1.jpg": "Cover of Best of The Wildstarfires Vol. I.",
   "back-vol-1.jpg": "Back cover of Vol. I, with reactions and credits.",
@@ -614,9 +615,9 @@
     "Told on": "The Story of Jimmibeetles (1996)",
     "Status": "A mystery by design"
    },
-   "image": "cover-story-of-jimmibeetles.jpg",
+   "image": "story-cover-detail.jpg",
    "images": [
-    "back-story-of-jimmibeetles.jpg"
+    "cover-story-of-jimmibeetles.jpg"
    ],
    "links": [
     {
