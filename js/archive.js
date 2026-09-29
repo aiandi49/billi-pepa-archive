@@ -17,8 +17,12 @@
       .then(function (data) {
         var byId = {};
         data.entries.forEach(function (e) { byId[e.id] = e; });
-        var linkSet = {};
-        data.entries.forEach(function (e) { (e.links || []).forEach(function (l) { linkSet[l.url.replace(/\/$/, '')] = true; }); });
+        var linkSet = {}, hostSet = {};
+        data.entries.forEach(function (e) { (e.links || []).forEach(function (l) {
+          linkSet[l.url.replace(/\/$/, '')] = true;
+          var m = l.url.match(/^https:\/\/(?:www\.)?([^\/]+)\/?$/);   // site home pages only
+          if (m) hostSet[m[1].toLowerCase()] = l.url;
+        }); });
         return {
           entries: data.entries,
           timeline: data.timeline || [],
@@ -26,6 +30,7 @@
           slides: function (e) { return [e.image].concat(e.images || []).filter(Boolean).map(function (f) { var c = (data.photos && data.photos[f]) || e.summary; return { src: imgSrc(f), title: e.title, caption: c, alt: c }; }); },
           byId: function (id) { return byId[id] || null; },
           knownLink: function (url) { return !!linkSet[String(url).replace(/\/$/, '')]; },
+          siteFor: function (name) { return hostSet[String(name).toLowerCase().replace(/^www\./, '')] || null; },
           imgSrc: imgSrc,
           photosFor: function (e) { return [e.image].concat(e.images || []).filter(Boolean); },
           collections: COLLECTIONS

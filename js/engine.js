@@ -19,19 +19,23 @@
     try { sessionStorage.setItem(STORE_KEY, JSON.stringify({ conversation: conversation, matches: lastMatches.map(function (m) { return { id: m.entry.id, score: m.score, why: m.why }; }) })); } catch (e) { /* storage off: session still works */ }
   }
 
-  /* Links in replies: only URLs that already exist in the archive become clickable. */
+  /* Links in replies: full URLs become clickable only if the archive already lists them;
+     bare site names (like thewildstarfires.com) only if they are the home page of a site the archive links to. */
   function appendText(node, text) {
-    var re = /https?:\/\/[^\s<>"')]+/g, last = 0, m;
+    var re = /https?:\/\/[^\s<>"')]+|\b(?:www\.)?[a-z0-9-]+(?:\.[a-z0-9-]+)*\.(?:com|fr|net|org)\b/gi, last = 0, m;
     while ((m = re.exec(text))) {
-      var url = m[0].replace(/[.,;:!?]+$/, '');
+      var token = m[0].replace(/[.,;:!?]+$/, '');
+      var href = null;
+      if (/^https?:\/\//i.test(token)) { if (A && A.knownLink(token)) href = token; }
+      else if (A) href = A.siteFor(token);
       node.appendChild(document.createTextNode(text.slice(last, m.index)));
-      if (A && A.knownLink(url)) {
-        var a = el('a', null, url); a.href = url; a.target = '_blank'; a.rel = 'noopener noreferrer';
+      if (href) {
+        var a = el('a', null, token); a.href = href; a.target = '_blank'; a.rel = 'noopener noreferrer';
         node.appendChild(a);
       } else {
-        node.appendChild(document.createTextNode(url));
+        node.appendChild(document.createTextNode(token));
       }
-      last = m.index + url.length;
+      last = m.index + token.length;
       re.lastIndex = last;
     }
     node.appendChild(document.createTextNode(text.slice(last)));
