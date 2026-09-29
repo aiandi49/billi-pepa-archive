@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark" data-font-size="md">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Ask the Billi Pepa Archive — The Wildstarfires, The Front End, Jimmibeetles Rock Theatre</title>
+<meta name="description" content="Ask about Billi Pepa's music, stories and photos — from The Starfires and The Front End in 1960s Brooklyn to Jimmibeetles Rock Theatre and the Best of The Wildstarfires albums.">
+<meta name="theme-color" content="#0d0b1f">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>(function(){var d=document.documentElement;try{var t=localStorage.getItem('pref-theme'),f=localStorage.getItem('pref-font-size');if(t==='light'||t==='dark')d.setAttribute('data-theme',t);if(f==='sm'||f==='md'||f==='lg'||f==='xl')d.setAttribute('data-font-size',f);}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/engine.css">
+<link rel="stylesheet" href="css/lightbox.css">
+</head>
+<body>
+<a class="skip" href="#chatInput">Skip to the chat</a>
+<div class="glow" aria-hidden="true"></div>
+
+<header class="topbar">
+  <nav class="nav" aria-label="Main">
+    <a class="brand" href="index.html"><span class="brand-mark" aria-hidden="true"></span>Billi Pepa Archive</a>
+    <div class="nav-links">
+      <a href="index.html" aria-current="page">Ask</a>
+      <a href="guide.html">Guide</a>
+      <a href="guide.html#photos">Photos</a>
+      <a href="guide.html#listen">Listen</a>
+    </div>
+    <div class="controls">
+      <button class="pill js-theme" type="button" aria-pressed="true"><span class="dot" aria-hidden="true"></span><span class="js-theme-label">Light theme</span></button>
+      <div class="sizes" role="group" aria-label="Text size">
+        <button class="size js-size" type="button" data-size="sm" aria-pressed="false">A<span class="sr">Small</span></button>
+        <button class="size js-size" type="button" data-size="md" aria-pressed="true">A<span class="sr">Normal</span></button>
+        <button class="size js-size" type="button" data-size="lg" aria-pressed="false">A<span class="sr">Large</span></button>
+        <button class="size js-size" type="button" data-size="xl" aria-pressed="false">A<span class="sr">Largest</span></button>
+      </div>
+      <button class="burger js-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="menu"><span></span></button>
+    </div>
+  </nav>
+  <div class="menu" id="menu">
+    <a href="index.html" aria-current="page">Ask the archive</a>
+    <a href="guide.html">The guide</a>
+    <a href="guide.html#photos">Photos</a>
+    <a href="guide.html#listen">Where to listen</a>
+  </div>
+</header>
+
+<main>
+  <section class="hero">
+    <p class="hero-tag">Sixty years of Brooklyn hard rock</p>
+    <h1>Ask the archive.</h1>
+    <p class="hero-sub">Songs, bands, shows and photos from Billi Pepa's music — The Starfires, The Front End, Jimmibeetles Rock Theatre and The Wildstarfires. Ask in your own words.</p>
+    <a class="hero-link" href="guide.html">Prefer to read? Open the guide</a>
+  </section>
+
+  <section class="board" aria-label="The archive guide">
+    <div class="card chat" id="chat">
+      <div class="chat-head">
+        <h2>The archive guide</h2>
+        <p class="sub">Answers come only from the archive</p>
+        <span class="status" id="status"><span class="status-dot" aria-hidden="true"></span><span id="statusLabel">Ready</span></span>
+        <div class="head-icons">
+          <button class="icon" id="resetBtn" type="button" aria-label="Start over">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M13.5 8a5.5 5.5 0 1 1-1.6-3.9M13.5 2.5v3h-3"/></svg>
+          </button>
+          <button class="icon" id="expandBtn" type="button" aria-label="Expand chat" aria-pressed="false">
+            <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M2.5 6V2.5H6M10 2.5h3.5V6M13.5 10v3.5H10M6 13.5H2.5V10"/></svg>
+          </button>
+        </div>
+      </div>
+      <div class="messages" id="messages" aria-live="polite"></div>
+      <div class="composer">
+        <label class="sr" for="chatInput">Your question</label>
+        <textarea id="chatInput" rows="1" maxlength="1500" placeholder="Ask about a song, a band, a year…"></textarea>
+        <button class="send" id="sendBtn" type="button">Send</button>
+      </div>
+    </div>
+
+    <div class="card result" id="topCard">
+      <h3 class="card-h">Top match</h3>
+      <button class="shot" id="topShot" type="button" aria-label="View this photo full screen"><img id="topImg" alt="" width="1200" height="900" decoding="async"></button>
+      <p class="kind" id="topKind"></p>
+      <p class="top-title" id="topTitle"></p>
+      <p class="top-why" id="topWhy"></p>
+    </div>
+
+    <div class="card result">
+      <div class="card-row"><h3 class="card-h">Shortlist</h3><span class="card-value" id="shortCount"></span></div>
+      <div class="donut-wrap">
+        <div class="donut" id="donut" role="img" aria-label="">
+          <svg viewBox="0 0 100 100" aria-hidden="true">
+            <defs><linearGradient id="arcGrad" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6366f1"/><stop offset=".55" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient></defs>
+            <circle class="track" cx="50" cy="50" r="40"/>
+            <circle class="arc" id="arc" cx="50" cy="50" r="40" stroke="url(#arcGrad)" stroke-dasharray="251.33" stroke-dashoffset="251.33"/>
+          </svg>
+          <div class="center"><span class="pct" id="pct">—</span><span class="pct-label" id="pctLabel">top score</span></div>
+        </div>
+      </div>
+      <p class="short-text" id="shortText"></p>
+      <ul class="short-list" id="shortList"></ul>
+    </div>
+
+    <div class="card result">
+      <h3 class="card-h">Listing details</h3>
+      <dl class="terms" id="terms"></dl>
+      <div class="next">
+        <p class="next-h">Next step</p>
+        <div class="next-body" id="nextBody"></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<section class="notes" aria-labelledby="notesTitle">
+  <div class="notes-inner">
+    <h2 id="notesTitle">What's real on this page</h2>
+    <div class="notes-grid">
+      <p><strong>Live answers from one source.</strong> Your conversation goes to a small server function that asks Claude, and Claude can only use the archive file behind this site — the same file the guide is built from. The three cards fill from that file too, so nothing on the right is made up.</p>
+      <p><strong>Real photos, real records.</strong> The photos come from Billi Pepa's own photo history and album artwork, with his captions. The video series Lamar is making is AI-made and is always called that.</p>
+      <p><strong>What it can't do.</strong> It can't play music, sell records or pass on messages. It points you to Bandcamp, Spotify, YouTube and the band's official site, thewildstarfires.com, for all of that.</p>
+      <p><strong>Private by design.</strong> The chat lives in this browser tab only and clears when you close it. Nothing you type is saved to an account.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="foot">
+  <p>The Billi Pepa Archive · a companion to <a href="https://thewildstarfires.com">thewildstarfires.com</a> · <a href="guide.html">Open the guide</a></p>
+</footer>
+
+<script src="js/prefs.js"></script>
+<script src="js/archive.js"></script>
+<script src="js/lightbox.js"></script>
+<script src="js/engine.js"></script>
+</body>
+</html>

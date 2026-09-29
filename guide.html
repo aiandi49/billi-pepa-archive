@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light" data-font-size="md">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>The Billi Pepa Archive — a guide to The Starfires, The Front End, Jimmibeetles Rock Theatre and The Wildstarfires</title>
+<meta name="description" content="A guide to Billi Pepa's music from 1964 to today: The Starfires and The Front End in Brooklyn, Pepa.Beads.Kydd, Jimmibeetles Rock Theatre, and the Best of The Wildstarfires albums — with photos, stories and where to listen.">
+<meta name="theme-color" content="#0b7a8f">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<script>(function(){var d=document.documentElement;try{var t=localStorage.getItem('pref-theme'),f=localStorage.getItem('pref-font-size');if(t==='light'||t==='dark')d.setAttribute('data-theme',t);if(f==='sm'||f==='md'||f==='lg'||f==='xl')d.setAttribute('data-font-size',f);}catch(e){}})();</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/guide.css">
+<link rel="stylesheet" href="css/lightbox.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to the guide</a>
+
+<header class="topbar">
+  <nav class="nav" aria-label="Main">
+    <a class="brand" href="guide.html"><span class="brand-mark" aria-hidden="true"></span>Billi Pepa Archive</a>
+    <div class="nav-links">
+      <a href="#rooms">The bands</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#photos">Photos</a>
+      <a href="#directory">Everything</a>
+      <a href="#listen">Listen</a>
+      <a class="nav-cta" href="index.html">Ask the archive</a>
+    </div>
+    <div class="controls">
+      <button class="pill js-theme" type="button" aria-pressed="false"><span class="dot" aria-hidden="true"></span><span class="js-theme-label">Dark theme</span></button>
+      <div class="sizes" role="group" aria-label="Text size">
+        <button class="size js-size" type="button" data-size="sm" aria-pressed="false">A<span class="sr">Small</span></button>
+        <button class="size js-size" type="button" data-size="md" aria-pressed="true">A<span class="sr">Normal</span></button>
+        <button class="size js-size" type="button" data-size="lg" aria-pressed="false">A<span class="sr">Large</span></button>
+        <button class="size js-size" type="button" data-size="xl" aria-pressed="false">A<span class="sr">Largest</span></button>
+      </div>
+      <button class="burger js-burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="menu"><span></span></button>
+    </div>
+  </nav>
+  <div class="menu" id="menu">
+    <a href="#rooms">The bands</a>
+    <a href="#timeline">Timeline</a>
+    <a href="#photos">Photos</a>
+    <a href="#directory">Everything in the archive</a>
+    <a href="#listen">Where to listen</a>
+    <a href="index.html">Ask the archive</a>
+  </div>
+</header>
+
+<main id="main">
+  <section class="hero">
+    <div class="hero-copy">
+      <p class="hero-tag">Brooklyn, 1964 to today</p>
+      <h1>One guitarist. Sixty years of New York hard rock.</h1>
+      <p class="lede">Billi Pepa started The Starfires with his brother in Brooklyn in 1964. This archive follows the music from there — The Front End on Smash Records, the trio Pepa.Beads.Kydd, Jimmibeetles Rock Theatre at CBGB, and the Best of The Wildstarfires albums you can hear today.</p>
+      <div class="ctas">
+        <a class="btn primary" href="index.html">Ask the archive a question</a>
+        <a class="btn" href="#photos">See the photos</a>
+      </div>
+    </div>
+    <figure class="hero-photo">
+      <button class="hero-shot" id="heroShot" type="button" aria-label="View this photo full screen">
+        <img src="assets/img/ph-wild-starfires-1967.jpg" alt="The Wild Starfires in 1967: Carmine Franco, Billi Pepa, Beads and Neil Sheen" width="1063" height="960" fetchpriority="high">
+      </button>
+      <figcaption>The Wild Starfires, 1967 — Carmine Franco, Billi Pepa, Beads and Neil Sheen.</figcaption>
+    </figure>
+  </section>
+
+  <section class="section white" id="rooms" aria-labelledby="roomsTitle">
+    <div class="section-head">
+      <h2 id="roomsTitle">Three bands, three eras</h2>
+      <p>Billi keeps these stories in separate rooms. Start with whichever one you know.</p>
+    </div>
+    <div class="rooms" id="roomsGrid"></div>
+  </section>
+
+  <section class="section tint" id="timeline" aria-labelledby="timelineTitle">
+    <div class="section-head">
+      <h2 id="timelineTitle">The timeline</h2>
+      <p>From a Brooklyn high school band to a live album released this year.</p>
+    </div>
+    <ol class="timeline" id="timelineList"></ol>
+  </section>
+
+  <section class="section white" id="photos" aria-labelledby="photosTitle">
+    <div class="section-head">
+      <h2 id="photosTitle">The photos</h2>
+      <p>From Billi's own photo history and the album artwork. Swipe, use the arrows, or tap a photo to see it full screen.</p>
+    </div>
+    <div class="carousel">
+      <button class="car-btn prev" id="carPrev" type="button" aria-label="Previous photos"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M15 5l-7 7 7 7"/></svg></button>
+      <div class="track" id="photoTrack" tabindex="0" aria-label="Photo carousel"></div>
+      <button class="car-btn next" id="carNext" type="button" aria-label="Next photos"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 5l7 7-7 7"/></svg></button>
+    </div>
+  </section>
+
+  <section class="section tint" id="live" aria-labelledby="liveTitle">
+    <div class="section-head">
+      <h2 id="liveTitle">Best of The Wildstarfires Live</h2>
+      <p>Twelve live performances, released on Bandcamp on May 22, 2026. Tap a song to read its story.</p>
+    </div>
+    <div class="table-wrap">
+      <table class="tracks">
+        <thead><tr><th scope="col">No.</th><th scope="col">Song</th><th scope="col">Length</th><th scope="col">Story</th></tr></thead>
+        <tbody id="trackBody"></tbody>
+      </table>
+    </div>
+    <p class="table-note"><a id="liveBuy" href="https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live">Buy or stream the album on Bandcamp</a> — $8 digital, $10 on CD.</p>
+  </section>
+
+  <section class="section white" id="directory" aria-labelledby="dirTitle">
+    <div class="section-head">
+      <h2 id="dirTitle">Everything in the archive</h2>
+      <p>Every person, band, record, song and story. Search or pick an era.</p>
+    </div>
+    <div class="dir-tools">
+      <label class="search"><span class="sr">Search the archive</span><input id="dirSearch" type="search" placeholder="Search — try Hey Joe, CBGB or 1968" autocomplete="off"></label>
+      <div class="chips" id="dirChips" role="group" aria-label="Filter by era"></div>
+    </div>
+    <p class="dir-count" id="dirCount" aria-live="polite"></p>
+    <div class="entries" id="entryGrid"></div>
+  </section>
+
+  <section class="section tint" id="listen" aria-labelledby="listenTitle">
+    <div class="section-head">
+      <h2 id="listenTitle">Where to listen, buy and read more</h2>
+      <p>This archive is a companion. The music and the full story live here:</p>
+    </div>
+    <ul class="listen" id="listenList"></ul>
+  </section>
+
+  <section class="section white" id="about" aria-labelledby="aboutTitle">
+    <div class="section-head">
+      <h2 id="aboutTitle">About this archive</h2>
+    </div>
+    <div class="about">
+      <p>The band's home base is <a href="https://thewildstarfires.com">thewildstarfires.com</a>, built and looked after by Andrew Persaud, who also designed the Best Of albums. Every lyric lives there, so this archive links to it instead of copying it. This site gathers the stories and photos in one searchable place and points back to the official pages.</p>
+      <p>Everything here comes from Billi Pepa's own site, his album covers and liner notes, and the recordings on Bandcamp and Spotify. Where a fact comes from somewhere else — like The Front End's singles or a collector's page about the Jimmibeetles legend — the entry says so. The photos are real. The video series Lamar is making is AI-made, and it is always labeled that way.</p>
+      <p>Who Jimmibeetles really was is part of the story, and it stays a mystery here on purpose.</p>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <p>The Billi Pepa Archive · a companion to <a href="https://thewildstarfires.com">thewildstarfires.com</a> · All music and words © Billi Pepa / No Recollection Publishing, BMI</p>
+</footer>
+
+<script src="js/prefs.js"></script>
+<script src="js/archive.js"></script>
+<script src="js/lightbox.js"></script>
+<script src="js/guide.js"></script>
+</body>
+</html>

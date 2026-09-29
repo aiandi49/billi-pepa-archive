@@ -1,0 +1,13 @@
+# Secrets — the real key lives only in Vercel's settings (and your own .env.local)
+.env
+.env.*
+!.env.example
+
+# Tooling
+node_modules/
+.vercel/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini

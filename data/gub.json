@@ -1,0 +1,1645 @@
+{
+ "site": "The Billi Pepa Archive",
+ "version": 1,
+ "updated": "2026-09-29",
+ "photos": {
+  "ph-front-end-1969-strum.jpg": "Billi Pepa with The Front End, 1969, in the original \"reverse boot strum\" position.",
+  "ph-high-roller-1980.jpg": "1980, the year Billi wrote, recorded and produced \"High Roller\".",
+  "ph-reverse-fold-1997.jpg": "Billi Pepa in the \"Reverse Fold\" solo position with Jimmibeetles Rock Theatre, 1997.",
+  "ph-pbk-rehearsal.jpg": "Billi Pepa with Pepa.Beads.Kydd, rehearsing at Billi Pepa Sound Universe, Brooklyn (1970–1974).",
+  "ph-wild-starfires-1967.jpg": "The Wild Starfires, 1967: Carmine Franco, Billi Pepa, Beads and Neil Sheen.",
+  "ph-jbrt-cbgb-1997.jpg": "Billi Pepa with Jimmibeetles Rock Theatre at CBGB, 1997.",
+  "ph-pbk-lincoln-center-1970.jpg": "Pepa.Beads.Kydd at the Lincoln Center outdoor bandshell, 1970.",
+  "ph-starfires-roulette.jpg": "Billi Pepa with The Starfires during the Roulette Records years (1964–1967).",
+  "ph-jbrt-martys-1999.jpg": "Billi with Jimmibeetles Rock Theatre at Marty's, Port Chester, Connecticut, 1999.",
+  "ph-front-end-1967.jpg": "The original Front End, 1967: Neil Sheen, Carmine Franco, Billi Pepa and Beads. Smash Records promo photo.",
+  "ph-front-end-drop-1968.jpg": "Billi Pepa with The Front End at The Drop, Bensonhurst, 1968 — on a bill with Billy Joel's Hassles and Leslie West's Vagrants.",
+  "ph-pbk-foggy-visit-1970.jpg": "Pepa.Beads.Kydd recording (Suite) One Foggy Visit at Billi Pepa Sound Universe, Sheepshead Bay, 1970.",
+  "ph-jbrt-montage-1995.jpg": "Promotional montage of Jimmibeetles Rock Theatre's original lineup, 1995.",
+  "ph-lamar-billi-11th-st-1997.jpg": "Lamar McCoy and Billi Pepa recording \"11th St.\", 1997.",
+  "ph-pbk-nyu.jpg": "Pepa.Beads.Kydd at New York University, West 4th Street — Billi on the cover of the NYU magazine.",
+  "ph-pbk-brooklyn-bridge-1971.jpg": "Pepa.Beads.Kydd under the Brooklyn Bridge, 1971, the day before Robert Stigwood planned to release Not From Here.",
+  "ph-front-end-1968-final.jpg": "The Front End's final lineup, 1968: Elliot Zaslansky, Bobby DeRiso, Beads and Billi Pepa at the Staten Island Stadium.",
+  "ph-pbk-once-i-was-1971.jpg": "Pepa.Beads.Kydd recording \"Once I Was\" at Billi Pepa Sound Universe, 1971.",
+  "ph-starfires-1966.jpg": "The Starfires' original lineup, 1966: Billi Pepa, Carmine Franco, Beads and Sal Sanfilippo.",
+  "ph-starfires-1964.jpg": "The Starfires, 1964: Carmine, Beads, Billi and Sal.",
+  "ph-jbrt-nadine-cbgb-1997.jpg": "Jimmibeetles Rock Theatre with Nadine Lusardi, first president of No Records, at CBGB, 1997.",
+  "ph-starfires-bass-drum-1967.jpg": "1967 artwork designed by Carmine Franco, original bassist of The Starfires, The Wild Starfires and The Front End.",
+  "ph-webster-hall-flyer.jpg": "Jimmibeetles Rock Theatre flyer for Webster Hall, Friday, October 24.",
+  "ph-jbrt-final-lineup.jpg": "Jimmibeetles Rock Theatre's final lineup (1996–2001): Lamar McCoy, Billi Pepa and Eddie Arjun.",
+  "ph-jbrt-drums-guitar.jpg": "Jimmibeetles Rock Theatre on stage — drums and guitar.",
+  "ph-band-trio.jpg": "The Jimmibeetles Rock Theatre trio.",
+  "cover-story-of-jimmibeetles.jpg": "Cover of The Story of Jimmibeetles (No Records, 1996).",
+  "back-story-of-jimmibeetles.jpg": "Band photo from The Story of Jimmibeetles.",
+  "cover-vol-1.jpg": "Cover of Best of The Wildstarfires Vol. I.",
+  "back-vol-1.jpg": "Back cover of Vol. I, with reactions and credits.",
+  "cover-vol-2.jpg": "Cover of Best of The Wildstarfires Vol. II — Lamar McCoy at CBGB, 1997.",
+  "back-vol-2.jpg": "Back cover of Vol. II with credits.",
+  "back-vol-3.jpg": "Back cover of Vol. III with the full tracklist.",
+  "disc-vol-2.jpg": "The Vol. II disc and tracklist.",
+  "disc-live.jpg": "The Best of The Wildstarfires Live disc.",
+  "cover-wild-starfires-3ht.jpg": "Wild Starfires artwork — Billi in the reverse strum.",
+  "single-wutdafkryinoutloud.jpg": "Wutdafkryinoutloud single artwork.",
+  "single-good-old-bunky-coda.jpg": "Good Old Bunky (Coda) single artwork.",
+  "no-records-catalogue.jpg": "The No Records catalogue of albums and singles.",
+  "montage-2019.jpg": "Wildstarfires montage, 2019.",
+  "collage-releases.jpg": "Releases from the No Records catalogue.",
+  "live-01.jpg": "Best of The Wildstarfires Live, track 1: Bleeker St. 1995 / Not From Here.",
+  "live-02.jpg": "Best of The Wildstarfires Live, track 2: Electric Ark.",
+  "live-03.jpg": "Best of The Wildstarfires Live, track 3: Falls The Time.",
+  "live-04.jpg": "Best of The Wildstarfires Live, track 4: This Homeless Thing.",
+  "live-05.jpg": "Best of The Wildstarfires Live, track 5: Shot.",
+  "live-06.jpg": "Best of The Wildstarfires Live, track 6: Only Nina Knows.",
+  "live-07.jpg": "Best of The Wildstarfires Live, track 7: Wutdafkryinoutloud.",
+  "live-08.jpg": "Best of The Wildstarfires Live, track 8: Can't Stop This (Train).",
+  "live-09.jpg": "Best of The Wildstarfires Live, track 9: 11th St..",
+  "live-10.jpg": "Best of The Wildstarfires Live, track 10: I'll Stand There.",
+  "live-11.jpg": "Best of The Wildstarfires Live, track 11: Notes From Underground / Not From Here.",
+  "live-12.jpg": "Best of The Wildstarfires Live, track 12: Good Old Bunky / Beginning The End."
+ },
+ "timeline": [
+  {
+   "year": "1964",
+   "text": "The Starfires form in Brooklyn — four Lincoln High friends singing four-part harmony.",
+   "entry": "the-starfires"
+  },
+  {
+   "year": "1966",
+   "text": "Les Paul borrows Billi's Gibson Firebird one night; the band records for Roulette.",
+   "entry": "the-starfires"
+  },
+  {
+   "year": "1967",
+   "text": "Renamed The Wild Starfires, then The Front End. The slow Hey Joe becomes a live sensation.",
+   "entry": "the-wild-starfires-1967"
+  },
+  {
+   "year": "1968",
+   "text": "Remember (Walking In The Sand) / The Real Thing — the third and last Smash single.",
+   "entry": "remember-walking-in-the-sand"
+  },
+  {
+   "year": "1970",
+   "text": "The Front End's last show in Central Park. Pepa.Beads.Kydd begins.",
+   "entry": "pepa-beads-kydd"
+  },
+  {
+   "year": "1971",
+   "text": "Robert Stigwood plans Not From Here as a worldwide single. It never comes out.",
+   "entry": "not-from-here"
+  },
+  {
+   "year": "1974",
+   "text": "Pepa.Beads.Kydd ends over a Con Edison bill. Billi goes solo.",
+   "entry": "pepa-beads-kydd"
+  },
+  {
+   "year": "1980",
+   "text": "High Roller, the theme for a Manhattan roller-skating disco.",
+   "entry": "high-roller"
+  },
+  {
+   "year": "1994",
+   "text": "Billi \"wakes from the dead\" on MacDougal Street and forms Jimmibeetles Rock Theatre.",
+   "entry": "jbrt"
+  },
+  {
+   "year": "1995",
+   "text": "The slow Hey Joe is finally recorded.",
+   "entry": "hey-joe"
+  },
+  {
+   "year": "1996",
+   "text": "The Story of Jimmibeetles comes out on No Records.",
+   "entry": "story-of-jimmibeetles"
+  },
+  {
+   "year": "1997",
+   "text": "CBGB, Webster Hall, Pontiac Grille — the final lineup on tape.",
+   "entry": "cbgb"
+  },
+  {
+   "year": "2024",
+   "text": "Best of The Wildstarfires Vol. II and Vol. III arrive on Bandcamp.",
+   "entry": "wildstarfires-catalog"
+  },
+  {
+   "year": "2026",
+   "text": "Best of The Wildstarfires Live, released May 22.",
+   "entry": "best-of-live"
+  }
+ ],
+ "entries": [
+  {
+   "id": "billi-pepa",
+   "collection": "billi",
+   "kind": "Person",
+   "title": "Billi Pepa",
+   "summary": "Guitarist, singer and songwriter from Brooklyn — the thread that runs through every band in this archive.",
+   "body": "Billi Pepa is the stage name of William G. Tortora. He started The Starfires in Brooklyn in 1964 with his brother Al \"Beads\" Tortora, and has written, sung and produced ever since. His own timeline runs: The Starfires (1964–1967), The Wild Starfires (1967), The Front End (1967–1970), Pepa.Beads.Kydd (1970–1974), solo work as Billi Pepa (1974–1994), Jimmibeetles Rock Theatre (1994–2001) and the 1998 project Pepa McCoy Amarcord. His Gibson Firebird was his main guitar through the sixties and up to 1974 — Les Paul borrowed it one night in 1966. On stage he is known for playing bent over backwards with the guitar behind him, a position his own captions call the \"Reverse Fold\". Every word and note on the Best of The Wildstarfires albums is credited to him.",
+   "tags": [
+    "billi",
+    "billy",
+    "pepa",
+    "tortora",
+    "guitar",
+    "singer",
+    "songwriter",
+    "founder",
+    "brooklyn",
+    "firebird",
+    "les paul",
+    "reverse fold",
+    "who"
+   ],
+   "details": {
+    "Real name": "William G. Tortora",
+    "From": "Brooklyn, New York",
+    "Plays": "Guitar, vocals, keys",
+    "Active": "1964 – today"
+   },
+   "image": "ph-reverse-fold-1997.jpg",
+   "images": [
+    "ph-front-end-1969-strum.jpg",
+    "ph-high-roller-1980.jpg",
+    "ph-jbrt-drums-guitar.jpg"
+   ],
+   "links": [
+    {
+     "label": "Billi's photo history on the official site",
+     "url": "https://thewildstarfires.com/billipepa/"
+    },
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "the-starfires",
+    "the-front-end",
+    "jbrt",
+    "wildstarfires-catalog"
+   ]
+  },
+  {
+   "id": "al-beads",
+   "collection": "front-end",
+   "kind": "Person",
+   "title": "Al \"Beads\" Tortora",
+   "summary": "Billi's brother — the accordion player who became the organist of The Starfires, The Front End and Pepa.Beads.Kydd.",
+   "body": "Al Tortora, known as Beads, started out on accordion and switched to organ. He was in the first Starfires lineup in 1964 and stayed beside his brother through The Wild Starfires, The Front End and the trio Pepa.Beads.Kydd. In the 1969 Central Park rainstorm show that ends The Story of Jimmibeetles, it is Beads who jams the highest key on his Hammond and walks off stage while park attendants shut the concert down. Pepa and Beads also built their own studio, the Billi Pepa Sound Universe, with their own hands.",
+   "tags": [
+    "beads",
+    "al",
+    "albert",
+    "organ",
+    "hammond",
+    "accordion",
+    "brother",
+    "tortora",
+    "keyboards"
+   ],
+   "details": {
+    "Instrument": "Organ, accordion",
+    "Bands": "The Starfires, The Front End, Pepa.Beads.Kydd",
+    "Relation": "Billi's brother"
+   },
+   "image": "ph-starfires-1964.jpg",
+   "images": [
+    "ph-pbk-foggy-visit-1970.jpg"
+   ],
+   "related": [
+    "the-starfires",
+    "pepa-beads-kydd",
+    "central-park-rainstorm"
+   ],
+   "links": []
+  },
+  {
+   "id": "lamar-mccoy",
+   "collection": "jbrt",
+   "kind": "Person",
+   "title": "Lamar McCoy",
+   "summary": "Drummer in the final lineup of Jimmibeetles Rock Theatre, 1996–2001 — a jazz drummer who brought call-and-answer to rock.",
+   "body": "Lamar McCoy played drums in the final lineup of Jimmibeetles Rock Theatre, from 1996 to 2001, alongside Billi Pepa and bassist Eddie Arjun. He came from jazz, where the players are always answering each other, and brought that conversation into the band's rock arrangements. He plays on most of the Best of The Wildstarfires tracks — Vol. II credits Eddie Arjun and Lamar McCoy on seven of its eleven songs — and the cover photo of Vol. II is of Lamar at CBGB in 1997. Today he is the one building this archive.",
+   "tags": [
+    "lamar",
+    "mccoy",
+    "drums",
+    "drummer",
+    "jazz",
+    "final lineup",
+    "cbgb"
+   ],
+   "details": {
+    "Instrument": "Drums",
+    "Band": "Jimmibeetles Rock Theatre",
+    "Years": "1996 – 2001"
+   },
+   "image": "ph-lamar-billi-11th-st-1997.jpg",
+   "images": [
+    "ph-jbrt-final-lineup.jpg",
+    "cover-vol-2.jpg"
+   ],
+   "related": [
+    "jbrt",
+    "eddie-arjun",
+    "eleventh-street"
+   ],
+   "links": []
+  },
+  {
+   "id": "eddie-arjun",
+   "collection": "jbrt",
+   "kind": "Person",
+   "title": "Eddie Arjun",
+   "summary": "Bassist in the final lineup of Jimmibeetles Rock Theatre, 1996–2001.",
+   "body": "Eddie Arjun played bass in the final lineup of Jimmibeetles Rock Theatre with Billi Pepa and Lamar McCoy. His first meeting with Billi is on the band's reactions page: at the Notel Motel in Alphabet City he asked Billi where he'd been hiding and why nobody had heard of him. He plays on most of the tracks across the three Best of The Wildstarfires volumes.",
+   "tags": [
+    "eddie",
+    "arjun",
+    "bass",
+    "bassist",
+    "final lineup",
+    "soul dogs"
+   ],
+   "details": {
+    "Instrument": "Bass",
+    "Band": "Jimmibeetles Rock Theatre",
+    "Years": "1996 – 2001"
+   },
+   "image": "ph-jbrt-final-lineup.jpg",
+   "related": [
+    "jbrt",
+    "lamar-mccoy"
+   ],
+   "images": [],
+   "links": []
+  },
+  {
+   "id": "the-starfires",
+   "collection": "front-end",
+   "kind": "Band",
+   "title": "The Starfires (1964–1967)",
+   "summary": "Four Lincoln High School friends from Brooklyn singing four-part harmony — where it all started.",
+   "body": "The Starfires formed in Brooklyn in 1964: Billi Pepa on guitar, his brother Al \"Beads\" on organ, trumpet-player-turned-bassist Carmine Franco and drummer Sal Sanfilippo. All four sang, all four went to Lincoln High School and all four kept day jobs the whole time. Managed at first by Billboard's Larry Lomenzo, they played Ted Mack's Amateur Hour and the New York World's Fair, recorded for George Goldner at Roulette Records, cut ten original songs for Les Paul in his home studio, and played regularly with Cousin Brucie at Palisades Amusement Park and with Jack Spector and the WMCA Good Guys. They shared bills with the Vagrants, Billy Joel's Hassles and Steven Tyler's Chain Reaction long before those names meant anything.",
+   "tags": [
+    "starfires",
+    "1964",
+    "1965",
+    "1966",
+    "brooklyn",
+    "lincoln high",
+    "roulette",
+    "les paul",
+    "world's fair",
+    "palisades",
+    "cousin brucie",
+    "harmony",
+    "carmine franco",
+    "sal sanfilippo"
+   ],
+   "details": {
+    "Formed": "Brooklyn, 1964",
+    "Lineup": "Billi Pepa, Beads, Carmine Franco, Sal Sanfilippo",
+    "Label": "Roulette Records",
+    "Became": "The Wild Starfires"
+   },
+   "image": "ph-starfires-1966.jpg",
+   "images": [
+    "ph-starfires-1964.jpg",
+    "ph-starfires-roulette.jpg"
+   ],
+   "links": [
+    {
+     "label": "The full story on the official site",
+     "url": "https://thewildstarfires.com/about-the-front-end/"
+    }
+   ],
+   "related": [
+    "the-wild-starfires-1967",
+    "the-front-end",
+    "al-beads"
+   ]
+  },
+  {
+   "id": "the-wild-starfires-1967",
+   "collection": "front-end",
+   "kind": "Band",
+   "title": "The Wild Starfires (1967)",
+   "summary": "The darker, wilder Starfires — renamed by their promoter, and the origin of the slow Hey Joe.",
+   "body": "When promoter Vic \"The M\" took over management and drummer Neil Sheen (son of jazz drummer Mickey Sheen) replaced Sal, the shows got darker and stranger, and Vic renamed the band The Wild Starfires. The only lineup was Carmine Franco on bass, Billi Pepa, Beads on organ and Neil Sheen on drums. Their extended, painfully slow power arrangement of Hey Joe became an audience sensation — and was dropped once the song became a hit for Jimi Hendrix. Carmine Franco designed the band's logo in 1967. The name lives on: it is the name Billi's whole catalog is released under today.",
+   "tags": [
+    "wild starfires",
+    "1967",
+    "vic the m",
+    "neil sheen",
+    "carmine franco",
+    "logo",
+    "hey joe",
+    "slow",
+    "renamed"
+   ],
+   "details": {
+    "Year": "1967",
+    "Lineup": "Carmine Franco, Billi Pepa, Beads, Neil Sheen",
+    "Named by": "Promoter Vic \"The M\"",
+    "Became": "The Front End"
+   },
+   "image": "ph-wild-starfires-1967.jpg",
+   "images": [
+    "ph-starfires-bass-drum-1967.jpg"
+   ],
+   "links": [
+    {
+     "label": "The full story on the official site",
+     "url": "https://thewildstarfires.com/about-the-front-end/"
+    }
+   ],
+   "related": [
+    "hey-joe",
+    "the-front-end",
+    "wildstarfires-catalog"
+   ]
+  },
+  {
+   "id": "the-front-end",
+   "collection": "front-end",
+   "kind": "Band",
+   "title": "The Front End (1967–1970)",
+   "summary": "Brooklyn hard rock on Mercury's Smash Records — three singles, a near-miss with Woodstock, and a song Aerosmith later picked up.",
+   "body": "Producers Steve and Bill Jerome (Walk Away Renee) renamed the band The Front End in 1967 and brought them to Mercury's Smash Records. They released three singles: Eeny Meeny / You (1967), Beverly / Go On Home (1968) and Remember (Walking In The Sand) / The Real Thing (1968). Their heavy take on Remember got a week of play on WNEW-FM and caught the ear of their friend Steve Tallarico of the Chain Reaction — later Steven Tyler — who revisited the song years later with Aerosmith. They shared stages with the Blues Project, Sam and Dave, the Four Tops, Mitch Ryder, the Temptations, the Left Banke, Patti LaBelle and Laura Nyro. A late offer from Mercury to record an album of originals came too late; the band walked away, missing a possible Woodstock slot in 1969, and ended after a Fourth of July weekend show in Central Park in 1970. The Real Thing has since been compiled on Psychedelic States: New York in the 60s, Vol. 3.",
+   "tags": [
+    "front end",
+    "1967",
+    "1968",
+    "1969",
+    "1970",
+    "smash",
+    "mercury",
+    "singles",
+    "remember walking in the sand",
+    "the real thing",
+    "eeny meeny",
+    "beverly",
+    "aerosmith",
+    "steven tyler",
+    "woodstock",
+    "jerome"
+   ],
+   "details": {
+    "Years": "1967 – 1970",
+    "Label": "Smash Records (Mercury)",
+    "Singles": "3",
+    "Last show": "Central Park, July 1970"
+   },
+   "image": "ph-front-end-1967.jpg",
+   "images": [
+    "ph-front-end-drop-1968.jpg",
+    "ph-front-end-1968-final.jpg",
+    "ph-front-end-1969-strum.jpg"
+   ],
+   "links": [
+    {
+     "label": "About The Front End on the official site",
+     "url": "https://thewildstarfires.com/about-the-front-end/"
+    }
+   ],
+   "related": [
+    "remember-walking-in-the-sand",
+    "the-wild-starfires-1967",
+    "pepa-beads-kydd"
+   ]
+  },
+  {
+   "id": "remember-walking-in-the-sand",
+   "collection": "front-end",
+   "kind": "Song",
+   "title": "Remember (Walking In The Sand) / The Real Thing",
+   "summary": "The Front End's third and last Smash single, released December 1968.",
+   "body": "A&R man Fred Munao heard the band's heavy arrangement of the Shangri-Las' Remember (Walking In The Sand) at The Cheetah in New York and got it released as their third single, backed with Billi's own The Real Thing. The B-side was the one time Billi recorded with a Gibson SG. The single got little airplay outside one straight week on WNEW-FM, but it put the band on the regional map — and Steve Tallarico, soon to be Steven Tyler, remembered it when Aerosmith recorded the song years later.",
+   "tags": [
+    "remember",
+    "walking in the sand",
+    "real thing",
+    "single",
+    "1968",
+    "smash",
+    "wnew",
+    "aerosmith",
+    "b-side",
+    "gibson sg"
+   ],
+   "details": {
+    "Released": "December 1968",
+    "Label": "Smash 2129",
+    "B-side": "The Real Thing (W. Tortora)",
+    "Band": "The Front End"
+   },
+   "image": "ph-front-end-1968-final.jpg",
+   "related": [
+    "the-front-end"
+   ],
+   "images": [],
+   "links": []
+  },
+  {
+   "id": "pepa-beads-kydd",
+   "collection": "front-end",
+   "kind": "Band",
+   "title": "Pepa.Beads.Kydd (1970–1974)",
+   "summary": "The concert-only trio that Robert Stigwood wanted to launch — and that a Con Edison bill ended.",
+   "body": "After The Front End, Billi, Beads and drummer Gussy Kydd (with bassist Anthony Wesley of Koala at first) formed The Billi Pepa Universe, which became the trio Pepa.Beads.Kydd. Robert Stigwood planned to release Not From Here worldwide as a single — his favorite track — but the plan never happened. The trio recorded two albums' worth of material in the studio Pepa and Beads built themselves and played Lincoln Center, NYU, Columbia University and The Circus. They broke up suddenly in January 1974 over an electric bill with Con Edison they couldn't resolve. Their recordings are out today as the album \"1970\" on Bandcamp and Spotify.",
+   "tags": [
+    "pepa beads kydd",
+    "pbk",
+    "1970",
+    "1971",
+    "1972",
+    "1973",
+    "1974",
+    "trio",
+    "stigwood",
+    "gussy kydd",
+    "lincoln center",
+    "nyu",
+    "columbia",
+    "circus",
+    "con edison",
+    "sound universe"
+   ],
+   "details": {
+    "Years": "1970 – 1974",
+    "Lineup": "Billi Pepa, Beads, Gussy Kydd",
+    "Album": "\"1970\"",
+    "Studio": "Billi Pepa Sound Universe, Brooklyn"
+   },
+   "image": "ph-pbk-lincoln-center-1970.jpg",
+   "images": [
+    "ph-pbk-brooklyn-bridge-1971.jpg",
+    "ph-pbk-once-i-was-1971.jpg",
+    "ph-pbk-rehearsal.jpg",
+    "ph-pbk-nyu.jpg",
+    "ph-pbk-foggy-visit-1970.jpg"
+   ],
+   "links": [
+    {
+     "label": "Listen on Spotify",
+     "url": "https://open.spotify.com/artist/1P63yfHeBi1luYlQ20aVds"
+    },
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "not-from-here",
+    "al-beads",
+    "gravity-lost"
+   ]
+  },
+  {
+   "id": "high-roller",
+   "collection": "billi",
+   "kind": "Record",
+   "title": "High Roller / Shot (1980)",
+   "summary": "Billi's 1980 private-press single, written as the theme for a Manhattan roller-skating disco.",
+   "body": "In 1980 Billi wrote, recorded and produced High Roller as the theme song for the new Manhattan roller-skating discotheque of the same name. Collectors of private-press records still talk about it — one called it among the most jaw-dropping outsider records they'd heard. It is in the No Records catalogue backed with Shot, a song that later turns up live on Best of The Wildstarfires Live and Vol. III.",
+   "tags": [
+    "high roller",
+    "1980",
+    "roller skating",
+    "disco",
+    "private press",
+    "single",
+    "shot",
+    "collector"
+   ],
+   "details": {
+    "Year": "1980",
+    "Written for": "High Roller discotheque, Manhattan",
+    "Label": "No Records"
+   },
+   "image": "ph-high-roller-1980.jpg",
+   "images": [
+    "no-records-catalogue.jpg"
+   ],
+   "related": [
+    "shot",
+    "no-records"
+   ],
+   "links": []
+  },
+  {
+   "id": "jbrt",
+   "collection": "jbrt",
+   "kind": "Band",
+   "title": "Jimmibeetles Rock Theatre (1994–2001)",
+   "summary": "The power trio Billi formed in 1994 to finish what The Front End started.",
+   "body": "In 1994, as his own site puts it, Billi Pepa \"woke from the dead\" one late summer night on MacDougal Street in Greenwich Village and formed the power trio Jimmibeetles Rock Theatre. The band built its own studio, recorded The Story of Jimmibeetles and released it in 1996 on No Records. The album and the live show caught the attention of two rock impresarios at the Philadelphia Music Conference — they were managed by former Epic Records head Ron Alexenberg and promoted by Woodstock co-creator Artie Kornfeld. They played CBGB, Webster Hall, Radio Woodstock and clubs across the Northeast. The final lineup (1996–2001) was Billi Pepa, Eddie Arjun on bass and Lamar McCoy on drums. The same slow Hey Joe arrangement from The Wild Starfires days finally got recorded by this band in 1995.",
+   "tags": [
+    "jbrt",
+    "jimmibeetles rock theatre",
+    "jrt",
+    "1994",
+    "1995",
+    "1996",
+    "1997",
+    "1998",
+    "1999",
+    "2000",
+    "2001",
+    "trio",
+    "cbgb",
+    "webster hall",
+    "kornfeld",
+    "alexenberg",
+    "philadelphia music conference"
+   ],
+   "details": {
+    "Years": "1994 – 2001",
+    "Final lineup": "Billi Pepa, Eddie Arjun, Lamar McCoy",
+    "Label": "No Records",
+    "Home base": "New York City"
+   },
+   "image": "ph-jbrt-final-lineup.jpg",
+   "images": [
+    "ph-jbrt-montage-1995.jpg",
+    "ph-jbrt-cbgb-1997.jpg",
+    "ph-jbrt-nadine-cbgb-1997.jpg",
+    "ph-jbrt-martys-1999.jpg",
+    "ph-band-trio.jpg",
+    "ph-jbrt-drums-guitar.jpg"
+   ],
+   "links": [
+    {
+     "label": "Jimmibeetles Rock Theatre (official site, in progress)",
+     "url": "https://jimmibeetlesrocktheatre.com"
+    }
+   ],
+   "related": [
+    "story-of-jimmibeetles",
+    "jimmibeetles-legend",
+    "hey-joe",
+    "lamar-mccoy",
+    "eddie-arjun"
+   ]
+  },
+  {
+   "id": "jimmibeetles-legend",
+   "collection": "jbrt",
+   "kind": "Story",
+   "title": "The legend of Jimmibeetles",
+   "summary": "An underground guitarist who refused to sell his Hey Joe in 1966, then vanished in 1971.",
+   "body": "The story the band tells: in 1966 an underground New York musician called Jimmibeetles recorded a slow, psychedelic Hey Joe. WMCA disc jockey Jack Spector begged him to put it out as a single. He refused, believing that selling his music would deface it, and not long after the song became a world-famous hit for Jimi Hendrix. Jimmibeetles vanished from the music world in 1971. Anyone who saw him play upon what his circle called his \"Electric Ark\" came away sure he was \"not from here\". His producer Zebrax wrote that the name was changed to protect his obscurity. Who he really was is the mystery at the heart of the band — and this archive keeps it that way. The legend has been written up independently too: a collector site devoted to Hey Joe covers (heyjoecovers.fr) carries Al Slavicsky's article \"Jimmibeetles Rock Theatre: Act One\", and Discogs lists the band as one of the most mysterious New York rock bands of the 60s.",
+   "tags": [
+    "jimmibeetles",
+    "legend",
+    "mystery",
+    "who is jimmibeetles",
+    "vanished",
+    "1966",
+    "1971",
+    "hey joe",
+    "jack spector",
+    "zebrax",
+    "electric ark",
+    "not from here",
+    "hendrix",
+    "mad clown"
+   ],
+   "details": {
+    "The year": "1966",
+    "Vanished": "1971",
+    "Told on": "The Story of Jimmibeetles (1996)",
+    "Status": "A mystery by design"
+   },
+   "image": "cover-story-of-jimmibeetles.jpg",
+   "images": [
+    "back-story-of-jimmibeetles.jpg"
+   ],
+   "links": [
+    {
+     "label": "The legend on the Jimmibeetles site",
+     "url": "https://jimmibeetlesrocktheatre.com"
+    },
+    {
+     "label": "Hey Joe covers index entry",
+     "url": "https://www.heyjoecovers.fr"
+    }
+   ],
+   "related": [
+    "story-of-jimmibeetles",
+    "hey-joe",
+    "electric-ark",
+    "not-from-here"
+   ]
+  },
+  {
+   "id": "story-of-jimmibeetles",
+   "collection": "jbrt",
+   "kind": "Record",
+   "title": "The Story of Jimmibeetles (1996)",
+   "summary": "Jimmibeetles Rock Theatre's CD on No Records — part one of a planned rock-opera trilogy.",
+   "body": "Released on CD in 1996 by No Records in Brooklyn, produced by Zebrax and mastered by Pete Diorio at Sound Lab, NYC. Guitars and vocals are Billi Pepa's; the liner notes credit Tim Murphy and Michael Duff with \"the beat\" and the later rhythm section with \"the spirit of theatre and performance\". It mixes studio tracks with live moments captured at real New York venues — among them a Hey Joe that runs about six and a half minutes and the 1969 Central Park rainstorm show. Not From Here from this album was picked for the 1996 Philadelphia Music Conference compilation. It is dedicated to Joseph Paul Tafone (1953–1976), former road manager. It was planned as part one of a trilogy; part two was to be called The Mad Clown. Sealed copies still turn up on eBay from estate sales.",
+   "tags": [
+    "story of jimmibeetles",
+    "cd",
+    "1996",
+    "album",
+    "no records",
+    "zebrax",
+    "trilogy",
+    "rock opera",
+    "mad clown",
+    "pete diorio",
+    "sound lab",
+    "tafone",
+    "ebay"
+   ],
+   "details": {
+    "Released": "1996",
+    "Label": "No Records, Brooklyn",
+    "Producer": "Zebrax",
+    "Format": "CD"
+   },
+   "image": "cover-story-of-jimmibeetles.jpg",
+   "images": [
+    "back-story-of-jimmibeetles.jpg"
+   ],
+   "related": [
+    "jimmibeetles-legend",
+    "hey-joe",
+    "central-park-rainstorm",
+    "not-from-here"
+   ],
+   "links": []
+  },
+  {
+   "id": "hey-joe",
+   "collection": "jbrt",
+   "kind": "Song",
+   "title": "Hey Joe",
+   "summary": "The slow, heavy arrangement that started in 1967, vanished after Hendrix, and came back in 1995.",
+   "body": "Hey Joe is the song everything turns on. The Wild Starfires played an extended, painfully slow power arrangement of it in 1967 — before Vanilla Fudge or Jimi Hendrix — and it became an audience sensation, then was dropped once Hendrix had the hit. It was not recorded until 1995, by Jimmibeetles Rock Theatre, and appears on The Story of Jimmibeetles; a live version from CBGB in 1996 has surfaced on YouTube. The song itself was written by Billy Roberts — the album's liner notes credit its publishing to Third Story Music. One fan's reaction on the official site sums it up: after Hey Joe, he thought Billi was crying. It is also the next chapter of Lamar's video series.",
+   "tags": [
+    "hey joe",
+    "hendrix",
+    "slow",
+    "1967",
+    "1995",
+    "1996",
+    "cbgb",
+    "cover",
+    "billy roberts",
+    "third story music",
+    "vanilla fudge",
+    "breakdown",
+    "staircase"
+   ],
+   "details": {
+    "Written by": "Billy Roberts",
+    "First played": "1967, The Wild Starfires",
+    "Recorded": "1995, Jimmibeetles Rock Theatre",
+    "On": "The Story of Jimmibeetles"
+   },
+   "image": "ph-jbrt-cbgb-1997.jpg",
+   "links": [
+    {
+     "label": "Watch on the band's YouTube",
+     "url": "https://www.youtube.com/@thewildstarfires1140"
+    }
+   ],
+   "related": [
+    "jimmibeetles-legend",
+    "the-wild-starfires-1967",
+    "story-of-jimmibeetles"
+   ],
+   "images": []
+  },
+  {
+   "id": "central-park-rainstorm",
+   "collection": "jbrt",
+   "kind": "Story",
+   "title": "Central Park in a Rainstorm, 1969",
+   "summary": "The show that ended in a downpour, a rushed stage and one organ key held down.",
+   "body": "In 1969 the band played Central Park as the rain came down. Billi called out for everybody to come up on the stage; the crowd rushed a stage loaded with soaked electrical equipment; park attendants moved in; and Beads jammed the highest key on his Hammond and walked away. The recording — narration and all — closes The Story of Jimmibeetles, and the words are on the lyrics page as Central Park In A Rainstorm. It is the moment Lamar says first hooked him on this music.",
+   "tags": [
+    "central park",
+    "rainstorm",
+    "rain",
+    "1969",
+    "hammond",
+    "stage",
+    "crowd",
+    "feedback",
+    "unplug"
+   ],
+   "details": {
+    "Year": "1969",
+    "Place": "Central Park, NYC",
+    "On": "The Story of Jimmibeetles"
+   },
+   "image": "ph-pbk-lincoln-center-1970.jpg",
+   "links": [
+    {
+     "label": "Read the words on the official site",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "al-beads",
+    "story-of-jimmibeetles"
+   ],
+   "images": []
+  },
+  {
+   "id": "not-from-here",
+   "collection": "jbrt",
+   "kind": "Song",
+   "title": "Not From Here",
+   "summary": "The song Robert Stigwood wanted as a single — from the play Citizen Of The Pleiades.",
+   "body": "Not From Here comes from Billi's play Citizen Of The Pleiades. Robert Stigwood called it his favorite track and planned to release it around the world as a single in 1971; it never happened. It opens The Story of Jimmibeetles with Billi narrating as a circus ringmaster, it was chosen for the 1996 Philadelphia Music Conference compilation, and it turns up again on Best of The Wildstarfires Live (paired with Bleeker St. 1995 and with Notes From Underground) and on Vol. III. The phrase itself — \"definitely not from here\" — is how the legend describes anyone who saw Jimmibeetles play.",
+   "tags": [
+    "not from here",
+    "stigwood",
+    "single",
+    "citizen of the pleiades",
+    "play",
+    "pleiades",
+    "ringmaster",
+    "1971",
+    "philadelphia music conference"
+   ],
+   "details": {
+    "From": "The play Citizen Of The Pleiades",
+    "Almost released by": "Robert Stigwood, 1971",
+    "Appears on": "Story of Jimmibeetles, Live, Vol. III"
+   },
+   "image": "ph-pbk-brooklyn-bridge-1971.jpg",
+   "links": [
+    {
+     "label": "Read the words on the official site",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    },
+    {
+     "label": "Hear it on Best of The Wildstarfires Live",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    }
+   ],
+   "related": [
+    "pepa-beads-kydd",
+    "best-of-live",
+    "best-of-vol-3"
+   ],
+   "images": []
+  },
+  {
+   "id": "electric-ark",
+   "collection": "jbrt",
+   "kind": "Song",
+   "title": "Electric Ark",
+   "summary": "Named for the stage the legend says Jimmibeetles played upon — track 2 on the Live album.",
+   "body": "In the legend, the \"Electric Ark\" is what Jimmibeetles' circle called his stage and rig. The song Electric Ark is one of the four Lamar calls the heart of this story, alongside Hey Joe, Only Nina Knows and Beginning The End. A live Electric Ark recorded at CBGB in 1997 is on Vol. I, and it is track 2 on Best of The Wildstarfires Live.",
+   "tags": [
+    "electric ark",
+    "cbgb",
+    "1997",
+    "live",
+    "stage"
+   ],
+   "details": {
+    "Live album": "Track 2 · 4:04",
+    "Also on": "Vol. I (CBGB, 1997)"
+   },
+   "image": "live-02.jpg",
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    },
+    {
+     "label": "Read the words",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "best-of-live",
+    "jimmibeetles-legend"
+   ],
+   "images": []
+  },
+  {
+   "id": "only-nina-knows",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Only Nina Knows",
+   "summary": "The song fans play until the disc wears out — tied to a story Billi keeps to himself.",
+   "body": "\"Words, only Nina knows\" — the song is one Billi rarely explains, and that is part of its pull; its backstory is one he has never told publicly. A Brooklyn musician left a voice message at No Records saying he'd played it about 200 times and needed another copy. Lamar played on it live and still listens to it thirty years later. It is on Vol. I and is track 6 on Best of The Wildstarfires Live, where it runs 4:44.",
+   "tags": [
+    "only nina knows",
+    "nina",
+    "ballad",
+    "favorite",
+    "200 times",
+    "vol 1",
+    "live"
+   ],
+   "details": {
+    "Live album": "Track 6 · 4:44",
+    "Also on": "Vol. I",
+    "Words by": "Billi Pepa"
+   },
+   "image": "live-06.jpg",
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    },
+    {
+     "label": "Read the words",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "best-of-live",
+    "best-of-vol-1"
+   ],
+   "images": []
+  },
+  {
+   "id": "beginning-the-end",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Beginning The End",
+   "summary": "\"This is the beginning of the end\" — the closer of the Live album, paired with Good Old Bunky.",
+   "body": "A song about riding the wave all the way — crossing the deep, standing on the highest peaks, nothing left to lose — that ends asking whether this is the beginning or the end. It is on Vol. II and closes Best of The Wildstarfires Live as Good Old Bunky / Beginning The End, the longest track on the record at 7:11.",
+   "tags": [
+    "beginning the end",
+    "closer",
+    "good old bunky",
+    "vol 2",
+    "live",
+    "ride the wave"
+   ],
+   "details": {
+    "Live album": "Track 12 · 7:11 (with Good Old Bunky)",
+    "Also on": "Vol. II"
+   },
+   "image": "live-12.jpg",
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    },
+    {
+     "label": "Read the words",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "good-old-bunky",
+    "best-of-live",
+    "best-of-vol-2"
+   ],
+   "images": []
+  },
+  {
+   "id": "good-old-bunky",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Good Old Bunky",
+   "summary": "\"In the end we're all gonna meet again on a highway in the night\" — that's what Bunky said.",
+   "body": "Good Old Bunky and its companion Bunky And Joe carry one of the catalog's recurring characters. A coda recorded at Radio Woodstock in 1996 was released as its own single in August 2024 and is on Vol. III; the full song opens the last track of the Live album. Bunky And Joe is one of the most-played Wildstarfires songs on Spotify.",
+   "tags": [
+    "good old bunky",
+    "bunky",
+    "bunky and joe",
+    "coda",
+    "radio woodstock",
+    "1996",
+    "highway"
+   ],
+   "details": {
+    "Coda single": "August 2024",
+    "Recorded": "Radio Woodstock, 1996",
+    "Also on": "Vol. III, Live"
+   },
+   "image": "single-good-old-bunky-coda.jpg",
+   "links": [
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    },
+    {
+     "label": "Read the words",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "beginning-the-end",
+    "best-of-vol-3"
+   ],
+   "images": []
+  },
+  {
+   "id": "relic-of-coney-island",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Relic Of Coney Island",
+   "summary": "A 22-minute suite in eight movements — radio interviews, a St. Marks Place bar and Seagate memories.",
+   "body": "Part two of Vol. III is Relic Of Coney Island, eight movements that run from a 1996 NYC radio interview through St. Marks Place, Thought Groove, Amarcord (Seagate Memoirs), The Circus, The Sand, The Golden Fleece, the Good Old Bunky coda from Radio Woodstock, another 1996 interview, and Don't You Never Let Go. The uncut 22:06 version was released on its own in September 2024.",
+   "tags": [
+    "relic of coney island",
+    "coney island",
+    "suite",
+    "22 minutes",
+    "uncut",
+    "amarcord",
+    "seagate",
+    "st marks",
+    "the circus",
+    "golden fleece",
+    "radio interview",
+    "vol 3"
+   ],
+   "details": {
+    "Length": "22:06 uncut",
+    "Movements": "8",
+    "Released": "September 2024",
+    "On": "Vol. III, part two"
+   },
+   "image": "back-vol-3.jpg",
+   "links": [
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "best-of-vol-3",
+    "good-old-bunky"
+   ],
+   "images": []
+  },
+  {
+   "id": "eleventh-street",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "11th St.",
+   "summary": "Recorded in 1997 with Lamar McCoy on drums — track 9 on the Live album.",
+   "body": "The photo history shows Lamar McCoy and Billi during the recording of 11th St. in 1997. The song is on the lyrics page as 11th Street and runs 4:16 as track 9 on Best of The Wildstarfires Live.",
+   "tags": [
+    "11th st",
+    "11th street",
+    "eleventh street",
+    "1997",
+    "lamar",
+    "recording"
+   ],
+   "details": {
+    "Live album": "Track 9 · 4:16",
+    "Recorded": "1997"
+   },
+   "image": "live-09.jpg",
+   "images": [
+    "ph-lamar-billi-11th-st-1997.jpg"
+   ],
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    }
+   ],
+   "related": [
+    "lamar-mccoy",
+    "best-of-live"
+   ]
+  },
+  {
+   "id": "shot",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Shot",
+   "summary": "From the 1980 High Roller single to the stage — track 5 on the Live album.",
+   "body": "Shot was the other side of Billi's 1980 High Roller single. A live Shot runs 4:58 as track 5 on Best of The Wildstarfires Live, and another version opens part one of Vol. III.",
+   "tags": [
+    "shot",
+    "high roller",
+    "1980",
+    "live",
+    "vol 3"
+   ],
+   "details": {
+    "Live album": "Track 5 · 4:58",
+    "Also on": "Vol. III, High Roller single"
+   },
+   "image": "live-05.jpg",
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    }
+   ],
+   "related": [
+    "high-roller",
+    "best-of-live"
+   ],
+   "images": []
+  },
+  {
+   "id": "wutdafkryinoutloud",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Wutdafkryinoutloud",
+   "summary": "The live single — track 7 on the Live album.",
+   "body": "A fast, loud live track that Billi also released as a standalone single in 2026. It runs 2:24 as track 7 on Best of The Wildstarfires Live.",
+   "tags": [
+    "wutdafkryinoutloud",
+    "for crying out loud",
+    "single",
+    "live",
+    "2026"
+   ],
+   "details": {
+    "Live album": "Track 7 · 2:24",
+    "Single": "2026"
+   },
+   "image": "single-wutdafkryinoutloud.jpg",
+   "links": [
+    {
+     "label": "Hear it on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    }
+   ],
+   "related": [
+    "best-of-live"
+   ],
+   "images": []
+  },
+  {
+   "id": "gravity-lost",
+   "collection": "wildstarfires",
+   "kind": "Song",
+   "title": "Gravity Lost",
+   "summary": "The most-played Wildstarfires song on Spotify.",
+   "body": "Gravity Lost closes Vol. II at 4:52 and sits at the top of The Wildstarfires' popular list on Spotify, ahead of Fantasy, Did You Ever Be Real, Bunky And Joe, Journey To Norph Castle and Colosseum Of Mars.",
+   "tags": [
+    "gravity lost",
+    "spotify",
+    "popular",
+    "vol 2",
+    "fantasy did you ever be real",
+    "colosseum of mars",
+    "norph castle"
+   ],
+   "details": {
+    "On": "Vol. II, track 11",
+    "Length": "4:52"
+   },
+   "image": "disc-vol-2.jpg",
+   "links": [
+    {
+     "label": "Listen on Spotify",
+     "url": "https://open.spotify.com/artist/1P63yfHeBi1luYlQ20aVds"
+    },
+    {
+     "label": "Read the words",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "best-of-vol-2"
+   ],
+   "images": []
+  },
+  {
+   "id": "wildstarfires-catalog",
+   "collection": "wildstarfires",
+   "kind": "Catalog",
+   "title": "The Wildstarfires catalog",
+   "summary": "The name Billi's recordings go out under today — \"an orphanage and a think tank of experienced hard rock musicians\".",
+   "body": "On Bandcamp and Spotify, Billi's archive is released as The Wildstarfires, described as both an orphanage and a think tank of experienced hard rock musicians, making hard rock for \"the mind's eye\" — novels for the ears. The Best Of series gathers recordings across decades and lineups: Vol. I, Vol. II (June 2024), Vol. III (October 2024) and Best of The Wildstarfires Live (May 2026), plus singles like Good Old Bunky (Coda) and Relic Of Coney Island (uncut), and the Pepa.Beads.Kydd album \"1970\". Every word and note is Billi Pepa's; albums are designed by Andrew Persaud and released on No Records.",
+   "tags": [
+    "wildstarfires",
+    "catalog",
+    "discography",
+    "albums",
+    "bandcamp",
+    "spotify",
+    "best of",
+    "releases",
+    "mind's eye",
+    "orphanage",
+    "think tank"
+   ],
+   "details": {
+    "Where": "Bandcamp, Spotify",
+    "Albums": "Vol. I, II, III, Live, \"1970\"",
+    "Label": "No Records"
+   },
+   "image": "cover-wild-starfires-3ht.jpg",
+   "images": [
+    "collage-releases.jpg",
+    "montage-2019.jpg"
+   ],
+   "links": [
+    {
+     "label": "Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    },
+    {
+     "label": "Spotify",
+     "url": "https://open.spotify.com/artist/1P63yfHeBi1luYlQ20aVds"
+    },
+    {
+     "label": "Official site",
+     "url": "https://thewildstarfires.com"
+    }
+   ],
+   "related": [
+    "best-of-live",
+    "best-of-vol-1",
+    "best-of-vol-2",
+    "best-of-vol-3",
+    "no-records"
+   ]
+  },
+  {
+   "id": "best-of-live",
+   "collection": "wildstarfires",
+   "kind": "Record",
+   "title": "Best of The Wildstarfires Live (2026)",
+   "summary": "Twelve live performances, released May 22, 2026 — $8 digital, $10 CD.",
+   "body": "Released on Bandcamp on May 22, 2026: 1 Bleeker St. 1995 / Not From Here (0:42), 2 Electric Ark (4:04), 3 Falls The Time (4:35), 4 This Homeless Thing (2:46), 5 Shot (4:58), 6 Only Nina Knows (4:44), 7 Wutdafkryinoutloud (2:24), 8 Can't Stop This (Train) (1:30), 9 11th St. (4:16), 10 I'll Stand There (4:55), 11 Notes From Underground / Not From Here (2:50), 12 Good Old Bunky / Beginning The End (7:11). Available as a digital album or a compact disc, with 24-bit/44.1kHz downloads.",
+   "tags": [
+    "live",
+    "best of the wildstarfires live",
+    "2026",
+    "twelve",
+    "12 songs",
+    "tracklist",
+    "cd",
+    "buy",
+    "price"
+   ],
+   "details": {
+    "Released": "May 22, 2026",
+    "Tracks": "12",
+    "Price": "$8 digital · $10 CD",
+    "Where": "Bandcamp"
+   },
+   "image": "disc-live.jpg",
+   "images": [
+    "live-01.jpg",
+    "live-02.jpg",
+    "live-03.jpg",
+    "live-04.jpg",
+    "live-05.jpg",
+    "live-06.jpg",
+    "live-07.jpg",
+    "live-08.jpg",
+    "live-09.jpg",
+    "live-10.jpg",
+    "live-11.jpg",
+    "live-12.jpg"
+   ],
+   "links": [
+    {
+     "label": "Buy or stream on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com/album/best-of-the-wildstarfires-live"
+    }
+   ],
+   "related": [
+    "only-nina-knows",
+    "electric-ark",
+    "beginning-the-end",
+    "eleventh-street"
+   ],
+   "tracks": [
+    {
+     "n": 1,
+     "title": "Bleeker St. 1995 / Not From Here",
+     "length": "0:42",
+     "art": "live-01.jpg",
+     "entry": "not-from-here"
+    },
+    {
+     "n": 2,
+     "title": "Electric Ark",
+     "length": "4:04",
+     "art": "live-02.jpg",
+     "entry": "electric-ark"
+    },
+    {
+     "n": 3,
+     "title": "Falls The Time",
+     "length": "4:35",
+     "art": "live-03.jpg",
+     "entry": null
+    },
+    {
+     "n": 4,
+     "title": "This Homeless Thing",
+     "length": "2:46",
+     "art": "live-04.jpg",
+     "entry": null
+    },
+    {
+     "n": 5,
+     "title": "Shot",
+     "length": "4:58",
+     "art": "live-05.jpg",
+     "entry": "shot"
+    },
+    {
+     "n": 6,
+     "title": "Only Nina Knows",
+     "length": "4:44",
+     "art": "live-06.jpg",
+     "entry": "only-nina-knows"
+    },
+    {
+     "n": 7,
+     "title": "Wutdafkryinoutloud",
+     "length": "2:24",
+     "art": "live-07.jpg",
+     "entry": "wutdafkryinoutloud"
+    },
+    {
+     "n": 8,
+     "title": "Can't Stop This (Train)",
+     "length": "1:30",
+     "art": "live-08.jpg",
+     "entry": null
+    },
+    {
+     "n": 9,
+     "title": "11th St.",
+     "length": "4:16",
+     "art": "live-09.jpg",
+     "entry": "eleventh-street"
+    },
+    {
+     "n": 10,
+     "title": "I'll Stand There",
+     "length": "4:55",
+     "art": "live-10.jpg",
+     "entry": null
+    },
+    {
+     "n": 11,
+     "title": "Notes From Underground / Not From Here",
+     "length": "2:50",
+     "art": "live-11.jpg",
+     "entry": "not-from-here"
+    },
+    {
+     "n": 12,
+     "title": "Good Old Bunky / Beginning The End",
+     "length": "7:11",
+     "art": "live-12.jpg",
+     "entry": "beginning-the-end"
+    }
+   ]
+  },
+  {
+   "id": "best-of-vol-1",
+   "collection": "wildstarfires",
+   "kind": "Record",
+   "title": "Best of The Wildstarfires Vol. I",
+   "summary": "The first Best Of — recorded 1995 onward, with Eddie Arjun and Lamar on most tracks.",
+   "body": "Vol. I collects recordings from 1995 on, with Eddie Arjun and Lamar playing on tracks 1–4, 6 and 8–10 and Tim Murphy and Mike Duff on 5, 7 and 11. Its songs include Can't Stop This (Train), Only Nina Knows, Electric Ark (live at CBGB, 1997), Falls The Time and Into The Forest; a full version of Far Below Zero appears on Vol. II. Photos come from a rooftop in 1997 and a storage room at No Records' old location in 1995.",
+   "tags": [
+    "vol 1",
+    "vol i",
+    "volume one",
+    "best of",
+    "1995",
+    "compilation"
+   ],
+   "details": {
+    "Label": "No Records",
+    "Players": "Eddie Arjun, Lamar McCoy, Tim Murphy, Mike Duff",
+    "Design": "Andrew Persaud"
+   },
+   "image": "cover-vol-1.jpg",
+   "images": [
+    "back-vol-1.jpg"
+   ],
+   "links": [
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "only-nina-knows",
+    "electric-ark",
+    "wildstarfires-catalog"
+   ]
+  },
+  {
+   "id": "best-of-vol-2",
+   "collection": "wildstarfires",
+   "kind": "Record",
+   "title": "Best of The Wildstarfires Vol. II (2024)",
+   "summary": "Eleven songs released June 2024 — cover photo of Lamar McCoy at CBGB, 1997.",
+   "body": "1 Moment Of Passion (Pontiac Grille, Philadelphia 1997), 2 Kill The Wildman, 3 Stikfyt (The Opera, Part 1), 4 I'll Stand There, 5 Man In... Goddess Of, 6 Bittersweet End, 7 Gentle Persuader, 8 Beginning The End, 9 Far Below Zero, 10 Notes From Underground (frenzy, CBGB, NYC 1997), 11 Gravity Lost. Eddie Arjun and Lamar McCoy play on 1, 3, 5, 7, 9, 10 and 11; Tim Murphy and Mike Duff on 4 and 8; Billi plays every instrument on 3 and 6 (2001).",
+   "tags": [
+    "vol 2",
+    "vol ii",
+    "volume two",
+    "2024",
+    "gentle persuader",
+    "kill the wildman",
+    "stikfyt",
+    "moment of passion",
+    "far below zero"
+   ],
+   "details": {
+    "Released": "June 2024",
+    "Tracks": "11",
+    "Cover photo": "Lamar McCoy at CBGB, 1997",
+    "Catalog": "NO13179"
+   },
+   "image": "cover-vol-2.jpg",
+   "images": [
+    "back-vol-2.jpg",
+    "disc-vol-2.jpg"
+   ],
+   "links": [
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "gravity-lost",
+    "beginning-the-end",
+    "lamar-mccoy"
+   ]
+  },
+  {
+   "id": "best-of-vol-3",
+   "collection": "wildstarfires",
+   "kind": "Record",
+   "title": "The Best of The Wildstarfires Vol. III (2024)",
+   "summary": "Released October 2024 — six songs, then the eight-movement Relic Of Coney Island.",
+   "body": "Part one: Tribeca '98 (The Orange Bear, Tribeca, 1998), Not From Here (from the play Citizen Of The Pleiades), Shot, (Rose Anne In) A Cold Blue Sky, Notes From Underground, Return To The Pleiades. Part two is Relic Of Coney Island in eight movements. Album design by Andrew Persaud.",
+   "tags": [
+    "vol 3",
+    "vol iii",
+    "volume three",
+    "2024",
+    "relic of coney island",
+    "tribeca",
+    "pleiades",
+    "cold blue sky"
+   ],
+   "details": {
+    "Released": "October 2024",
+    "Parts": "2",
+    "Catalog": "NO21981",
+    "Design": "Andrew Persaud"
+   },
+   "image": "back-vol-3.jpg",
+   "links": [
+    {
+     "label": "Listen on Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    }
+   ],
+   "related": [
+    "relic-of-coney-island",
+    "not-from-here"
+   ],
+   "images": []
+  },
+  {
+   "id": "no-records",
+   "collection": "billi",
+   "kind": "Label",
+   "title": "No Records",
+   "summary": "Billi's own independent label and publishing company, from Brooklyn to Staten Island.",
+   "body": "No Records, Inc. and No Recollection Publishing (BMI) have released Billi's music since the 1990s. Nadine Lusardi was the first president of No Records Corp. — she's pictured with the band at CBGB in 1997. The label's catalogue runs from the High Roller / Shot single and the Pepa.Beads.Kydd \"1970\" LP to The Story of Jimmibeetles and the Best Of volumes. Contact details are on the official site's contact page.",
+   "tags": [
+    "no records",
+    "label",
+    "no recollection publishing",
+    "bmi",
+    "nadine lusardi",
+    "catalogue",
+    "contact",
+    "staten island"
+   ],
+   "details": {
+    "Label": "No Records, Inc.",
+    "Publishing": "No Recollection Publishing, BMI",
+    "First president": "Nadine Lusardi"
+   },
+   "image": "no-records-catalogue.jpg",
+   "images": [
+    "ph-jbrt-nadine-cbgb-1997.jpg"
+   ],
+   "links": [
+    {
+     "label": "Contact page on the official site",
+     "url": "https://thewildstarfires.com/contact/"
+    }
+   ],
+   "related": [
+    "wildstarfires-catalog"
+   ]
+  },
+  {
+   "id": "webster-hall",
+   "collection": "jbrt",
+   "kind": "Show",
+   "title": "Webster Hall, Friday October 24",
+   "summary": "A Jimmibeetles Rock Theatre flyer: doors at 10, open bar 10:30 to 11:30, guest list through No Records.",
+   "body": "One of the band's own flyers, for a Friday, October 24 show at Webster Hall on East 11th Street in Greenwich Village: doors at 10pm, the band at 1am, an open bar from 10:30 to 11:30 and a complimentary pass for you and a guest. A sound man at Webster Hall told them they were the best band that ever played there.",
+   "tags": [
+    "webster hall",
+    "flyer",
+    "show",
+    "gig",
+    "greenwich village",
+    "october"
+   ],
+   "details": {
+    "Venue": "Webster Hall, NYC",
+    "Day": "Friday, October 24",
+    "Band": "Jimmibeetles Rock Theatre"
+   },
+   "image": "ph-webster-hall-flyer.jpg",
+   "related": [
+    "jbrt",
+    "reactions"
+   ],
+   "images": [],
+   "links": []
+  },
+  {
+   "id": "cbgb",
+   "collection": "jbrt",
+   "kind": "Place",
+   "title": "CBGB",
+   "summary": "The Bowery club where Jimmibeetles Rock Theatre played in 1996–1997 — and where Vol. II's cover was shot.",
+   "body": "Jimmibeetles Rock Theatre played CBGB in the East Village in the mid-nineties. A live Hey Joe from CBGB in 1996 has surfaced on YouTube; Electric Ark on Vol. I and Notes From Underground (\"frenzy\") on Vol. II were recorded there in 1997; and Lamar's photo on the Vol. II cover was taken there. A CBGB sound engineer's line made the reactions page: now he knew why they wanted the microphone taped down.",
+   "tags": [
+    "cbgb",
+    "bowery",
+    "1996",
+    "1997",
+    "club",
+    "venue",
+    "east village",
+    "frenzy"
+   ],
+   "details": {
+    "Where": "The Bowery, Manhattan",
+    "Years played": "1996 – 1997"
+   },
+   "image": "ph-jbrt-cbgb-1997.jpg",
+   "images": [
+    "ph-jbrt-nadine-cbgb-1997.jpg",
+    "cover-vol-2.jpg"
+   ],
+   "related": [
+    "hey-joe",
+    "jbrt",
+    "best-of-vol-2"
+   ],
+   "links": []
+  },
+  {
+   "id": "reactions",
+   "collection": "billi",
+   "kind": "Press",
+   "title": "What people said",
+   "summary": "Press and fan reactions collected on the official site, from Variety to the bartender at Woodstock.",
+   "body": "The official site keeps a long page of reactions. A few: Robert Stigwood — \"I cannot begin to tell you how impressed I am.\" Variety — \"A most unusual performance. A fascinating act.\" Artie Kornfeld — not since Cream had he been so blown away by a rock trio. Billboard called it rock poetry unbounded by conventional forms. Bad Brains bassist Darryl Jenifer told Billi \"You're the man.\" And at The Spiral in Alphabet City, a fan said that after Hey Joe he thought Billi was crying — the most beautiful thing he ever saw.",
+   "tags": [
+    "reactions",
+    "reviews",
+    "press",
+    "quotes",
+    "stigwood",
+    "variety",
+    "billboard",
+    "kornfeld",
+    "fans",
+    "what people said"
+   ],
+   "details": {
+    "Source": "thewildstarfires.com/about-reactions"
+   },
+   "image": "back-vol-1.jpg",
+   "links": [
+    {
+     "label": "Read every reaction on the official site",
+     "url": "https://thewildstarfires.com/about-reactions/"
+    }
+   ],
+   "related": [
+    "billi-pepa",
+    "hey-joe"
+   ],
+   "images": []
+  },
+  {
+   "id": "where-to-listen",
+   "collection": "billi",
+   "kind": "Guide",
+   "title": "Where to listen, buy and read more",
+   "summary": "Bandcamp for albums and CDs, Spotify for streaming, YouTube for video, and the official sites for the full story.",
+   "body": "Buy and stream albums and CDs on Bandcamp (thewildstarfires.bandcamp.com) — every purchase goes to the artist. Stream on Spotify under The Wildstarfires. Watch rehearsal and live video on The Wildstarfires YouTube channel, including Tomorrow Never Knows and a 1995 Manic Depression blues warm-up. Read every lyric, the band histories and the reactions on thewildstarfires.com, the band's home base. Jimmibeetles Rock Theatre is getting its own site at jimmibeetlesrocktheatre.com.",
+   "tags": [
+    "listen",
+    "buy",
+    "stream",
+    "where",
+    "bandcamp",
+    "spotify",
+    "youtube",
+    "official site",
+    "lyrics",
+    "cd",
+    "purchase",
+    "video"
+   ],
+   "details": {
+    "Buy": "Bandcamp",
+    "Stream": "Spotify",
+    "Watch": "YouTube",
+    "Read": "thewildstarfires.com"
+   },
+   "image": "collage-releases.jpg",
+   "links": [
+    {
+     "label": "Bandcamp",
+     "url": "https://thewildstarfires.bandcamp.com"
+    },
+    {
+     "label": "Spotify",
+     "url": "https://open.spotify.com/artist/1P63yfHeBi1luYlQ20aVds"
+    },
+    {
+     "label": "YouTube",
+     "url": "https://www.youtube.com/@thewildstarfires1140"
+    },
+    {
+     "label": "The official site",
+     "url": "https://thewildstarfires.com"
+    },
+    {
+     "label": "All the lyrics",
+     "url": "https://thewildstarfires.com/about-the-lyrics/"
+    }
+   ],
+   "related": [
+    "wildstarfires-catalog"
+   ],
+   "images": []
+  },
+  {
+   "id": "the-series",
+   "collection": "jbrt",
+   "kind": "Project",
+   "title": "The video series (2026)",
+   "summary": "Lamar's short films that bring the Jimmibeetles story to the screen — made with AI, labeled as such.",
+   "body": "In 2026 Lamar began making a short video series around the Jimmibeetles story, built with his own AI video software. The first pieces — including The Circus — set scenes like an empty club after hours, hands on a fretboard and a reel-to-reel spinning; the next chapter is Hey Joe, opening with Billi and Lamar on a staircase and Eddie's first bass note. These are AI-made scenes, not archival footage, and they're shared on the official channels as they're finished.",
+   "tags": [
+    "video",
+    "series",
+    "episode",
+    "mini series",
+    "ai",
+    "the circus",
+    "screening",
+    "film",
+    "hey joe video",
+    "staircase"
+   ],
+   "details": {
+    "Made by": "Lamar",
+    "Started": "2026",
+    "Next": "Hey Joe",
+    "Footage": "AI-made scenes, not archival"
+   },
+   "image": "ph-jbrt-drums-guitar.jpg",
+   "links": [
+    {
+     "label": "The band's YouTube",
+     "url": "https://www.youtube.com/@thewildstarfires1140"
+    }
+   ],
+   "related": [
+    "hey-joe",
+    "lamar-mccoy"
+   ],
+   "images": []
+  }
+ ]
+}
